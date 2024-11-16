@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋😏! My name is ROMIL.<br>I'm a <FULL STACK DEV />, based in INDIA.</h2>
+<h2 align="left">Hey 👋😏! My name is ROMIL.<br>I'm a FULL STACK DEV />, based in INDIA.</h2>
 
 ###
 
